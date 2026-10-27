@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+html{scroll-behavior:smooth}body{background:#06101f;color:#f3f9ff}::selection{background:#00cfff;color:#06101f}.glow{box-shadow:0 0 40px #00cfff33}.grid-bg{background-image:linear-gradient(#ffffff08 1px,transparent 1px),linear-gradient(90deg,#ffffff08 1px,transparent 1px);background-size:52px 52px}
